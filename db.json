@@ -1,0 +1,131 @@
+{
+  "employees": [
+    {
+      "gender": "male",
+      "firstName": "lawrence",
+      "lastName": "simmmons",
+      "email": "lawrence.simmmons@example.com",
+      "age": 72,
+      "phone": "(599)-273-2362",
+      "mobile": "(898)-820-3948",
+      "picture": "https://randomuser.me/api/portraits/men/9.jpg",
+      "department": "IT",
+      "id": "01"
+    },
+    {
+      "id": "02",
+      "gender": "male",
+      "firstName": "wade",
+      "lastName": "hernandez",
+      "email": "wade.hernandez@example.com",
+      "age": 45,
+      "phone": "(384)-851-1123",
+      "mobile": "(258)-835-0152",
+      "picture": "https://randomuser.me/api/portraits/men/88.jpg",
+      "department": "IT"
+    },
+    {
+      "id": "03",
+      "gender": "female",
+      "firstName": "ramona",
+      "lastName": "hoffman",
+      "email": "ramona.hoffman@example.com",
+      "age": 65,
+      "phone": "(540)-353-4198",
+      "mobile": "(329)-224-4175",
+      "picture": "https://randomuser.me/api/portraits/women/14.jpg",
+      "department": "marketing"
+    },
+    {
+      "id": "04",
+      "gender": "female",
+      "firstName": "nevaeh",
+      "lastName": "grant",
+      "email": "nevaeh.grant@example.com",
+      "age": 31,
+      "phone": "(502)-708-9407",
+      "mobile": "(292)-586-0883",
+      "picture": "https://randomuser.me/api/portraits/women/13.jpg",
+      "department": "HR"
+    },
+    {
+      "id": "05",
+      "gender": "male",
+      "firstName": "samuel",
+      "lastName": "myers",
+      "email": "samuel.myers@example.com",
+      "age": 52,
+      "phone": "(909)-771-6340",
+      "mobile": "(950)-361-1544",
+      "picture": "https://randomuser.me/api/portraits/men/19.jpg",
+      "department": "finance"
+    },
+    {
+      "id": "06",
+      "gender": "female",
+      "firstName": "christina",
+      "lastName": "sullivan",
+      "email": "christina.sullivan@example.com",
+      "age": 72,
+      "phone": "(529)-428-2305",
+      "mobile": "(303)-787-2617",
+      "picture": "https://randomuser.me/api/portraits/women/78.jpg",
+      "department": "finance"
+    },
+    {
+      "id": "07",
+      "gender": "male",
+      "firstName": "evan",
+      "lastName": "ramos",
+      "email": "evan.ramos@example.com",
+      "age": 48,
+      "phone": "(756)-808-4707",
+      "mobile": "(392)-755-5252",
+      "picture": "https://randomuser.me/api/portraits/men/29.jpg",
+      "department": "IT"
+    },
+    {
+      "id": "08",
+      "gender": "female",
+      "firstName": "mia",
+      "lastName": "henderson",
+      "email": "mia.henderson@example.com",
+      "age": 65,
+      "phone": "(835)-319-6826",
+      "mobile": "(937)-415-5669",
+      "picture": "https://randomuser.me/api/portraits/women/26.jpg",
+      "department": "HR"
+    },
+    {
+      "id": "09",
+      "gender": "female",
+      "firstName": "mattie",
+      "lastName": "hanson",
+      "email": "mattie.hanson@example.com",
+      "age": 44,
+      "phone": "(656)-034-3763",
+      "mobile": "(151)-730-7766",
+      "picture": "https://randomuser.me/api/portraits/women/81.jpg",
+      "department": "IT"
+    },
+    {
+      "id": "10",
+      "gender": "female",
+      "firstName": "aubree",
+      "lastName": "payne",
+      "email": "aubree.payne@example.com",
+      "age": 43,
+      "phone": "(164)-233-6025",
+      "mobile": "(931)-213-1155",
+      "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+      "department": "marketing"
+    }
+  ],
+  "user": {
+    "JWT": "1234567890",
+    "username": "tsevdos",
+    "name": "John Tsevdos",
+    "admin": true,
+    "imgPath": "https://randomuser.me/api/portraits/med/men/9.jpg"
+  }
+}

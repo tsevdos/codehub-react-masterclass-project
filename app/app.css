@@ -1,0 +1,69 @@
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 1.5em;
+  background: #ecf0f3;
+}
+
+.user-text {
+  margin: 1em 0 0 1em;
+  font-weight: bold;
+}
+
+.employees-container {
+  display: flex;
+  height: 80vh;
+  margin: 2em 0;
+  background: #fff;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.employees-list {
+  flex: 2 1 0;
+  overflow-y: scroll;
+}
+
+.employees-list ul,
+.employees-list li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.employee-list-item {
+  padding: 1em;
+}
+.employee-list-item a {
+  padding: 1em;
+  display: flex;
+  text-decoration: none;
+}
+
+.employee-list-item a:hover {
+  background: #e8e8e8;
+}
+
+.employee-list-item a.selected {
+  background: red;
+}
+
+.employee-list-item .info {
+  margin: 1em 0 0 1em;
+}
+
+.employee-list-item .name {
+  margin: 0;
+  font-weight: bold;
+  color: #212529;
+}
+
+.employee-list-item .email {
+  margin: 0;
+  color: #909294;
+}
+
+.employee-details {
+  flex: 3 1 0;
+  padding: 1em;
+  overflow-y: scroll;
+}
