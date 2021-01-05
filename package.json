@@ -13,7 +13,7 @@
   "author": "John Tsevdos <tsevdosjohn@gmail.com> (http://tsevdos.me/)",
   "license": "ISC",
   "dependencies": {
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "bootstrap": "4.3.1",
     "json-server": "0.15.1",
     "react": "16.9.0",
